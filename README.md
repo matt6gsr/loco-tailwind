@@ -9,3 +9,5 @@ Some functionality does not work on the `Device` page.
 This is intentional.
 
 I have used some static data to populate some areas of the device page.
+
+Please run `npm run test` to run the test suite.
